@@ -1,0 +1,14 @@
+pandas
+numpy
+requests
+sqlalchemy
+psycopg2-binary
+google-generativeai
+jinja2
+weasyprint
+sentence-transformers
+faiss-cpu
+typer
+rich
+python-dotenv
+streamlit
